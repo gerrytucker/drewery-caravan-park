@@ -107,3 +107,18 @@ function set_ie_edge() {
 	header( 'X-UA-Compatible: IE=edge,chrome=1' );
 	
 }
+
+// Add class to page body
+function page_bodyclass() {
+	global $wp_query;
+	$page = '';
+	if (is_front_page()) {
+		$page = 'home';
+	} elseif (is_404()) {
+		$page = 'error404';
+	} elseif (is_page()) {
+		$page = $wp_query->query_vars["pagename"];
+	}
+	if ($page)
+		echo 'class="' . $page . '"';
+}
