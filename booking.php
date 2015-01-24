@@ -96,12 +96,12 @@ get_header(); ?>
 									</div>
 									<div class="small-8 medium-8 large-8 columns">
 										<div class="row">
-											<div class="six columns">
+											<div class="small-6 medium-6 large-6 columns">
 												<div class="row collapse">
-													<div class="two columns">
+													<div class="small-2 medium-2 large-2 columns">
 														<span class="prefix"><span data-icon="&#xe004" aria-hidden="true"></span></span>
 													</div>
-													<div class="ten columns">
+													<div class="small-1- medium-10 large-10 columns">
 														<input id="telno" name="telno" type="text" placeholder="Telephone" required>
 													</div>
 												</div>
@@ -121,7 +121,7 @@ get_header(); ?>
 								</div>
 								
 								<div class="row next-section">
-									<div class="four columns">
+									<div class="small-4 medium-4 large-4 columns">
 										<p><strong>Your Email Address</strong><br>
 										We could email you too.</p>
 									</div>
