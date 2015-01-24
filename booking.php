@@ -106,7 +106,7 @@ get_header(); ?>
 													</div>
 												</div>
 											</div>
-											<div class="six columns">
+											<div class="small-6 medium-6 large-6 columns">
 												<div class="row collapse">
 													<div class="small-2 medium-2 large-2 columns">
 														<span class="prefix"><span data-icon="&#xe001" aria-hidden="true"></span></span>
