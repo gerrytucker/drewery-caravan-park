@@ -198,15 +198,15 @@ get_header(); ?>
 											<div class="small-12 medium-12 large-12 columns">
 												<div class="row">
 													<div class="small-6 medium-6 large-6 columns">
-														<label for="tourerleccie"><input name="type" type="radio" id="tourerleccie" value="Tourer w/ Electricity" style="display:none;"><span class="custom radio"></span> Tourer Electric</label>
-														<label for="motorhomeleccie"><input name="type" type="radio" id="motorhomeleccie" value="Motorhome w/ Electricity" style="display:none;"><span class="custom radio"></span> Motorhome Electric</label>
-														<label for="camperleccie"><input name="type" type="radio" id="camperleccie" value="Camper w/ Electricity" style="display:none;"><span class="custom radio"></span> Camper Electric</label>
-														<label for="tentleccie"><input name="type" type="radio" id="tentleccie" value="Tent w/ Electricity" style="display:none;"><span class="custom radio"></span> Tent Electric</label>
+														<label for="tourerleccie"><input name="type" type="radio" id="tourerleccie" value="Tourer w/ Electricity"><span class="custom radio"></span> Tourer Electric</label>
+														<label for="motorhomeleccie"><input name="type" type="radio" id="motorhomeleccie" value="Motorhome w/ Electricity"><span class="custom radio"></span> Motorhome Electric</label>
+														<label for="camperleccie"><input name="type" type="radio" id="camperleccie" value="Camper w/ Electricity"><span class="custom radio"></span> Camper Electric</label>
+														<label for="tentleccie"><input name="type" type="radio" id="tentleccie" value="Tent w/ Electricity"><span class="custom radio"></span> Tent Electric</label>
 													</div>
 													<div class="small-6 medium-6 large-6 columns">
-														<label for="motorhomenoleccie"><input name="type" type="radio" id="motorhomenoleccie" value="Motorhome w/o Electricity" style="display:none;"><span class="custom radio"></span> Motorhome No Electric</label>
-														<label for="campernoleccie"><input name="type" type="radio" id="campernoleccie" value="Camper w/o Electricity" style="display:none;"><span class="custom radio"></span> Camper No Electric</label>
-														<label for="tentnoleccie"><input name="type" type="radio" id="tentnoleccie" value="Tent w/o Electricity" style="display:none;"><span class="custom radio"></span> Tent No Electric</label>
+														<label for="motorhomenoleccie"><input name="type" type="radio" id="motorhomenoleccie" value="Motorhome w/o Electricity"><span class="custom radio"></span> Motorhome No Electric</label>
+														<label for="campernoleccie"><input name="type" type="radio" id="campernoleccie" value="Camper w/o Electricity"><span class="custom radio"></span> Camper No Electric</label>
+														<label for="tentnoleccie"><input name="type" type="radio" id="tentnoleccie" value="Tent w/o Electricity"><span class="custom radio"></span> Tent No Electric</label>
 													</div>
 												</div>
 											</div>
